@@ -8,7 +8,7 @@ using System.Data.Entity.Infrastructure;
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace DevelopmentWithADot.EntityFrameworkFluentValidation
+namespace DevelopmentWithADot.EntityFrameworkFluentValidation 
 {
 	public static class DbContextExtensions
 	{

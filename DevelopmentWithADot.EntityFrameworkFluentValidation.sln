@@ -1,12 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopmentWithADot.EntityFrameworkFluentValidation", "DevelopmentWithADot.EntityFrameworkFluentValidation\DevelopmentWithADot.EntityFrameworkFluentValidation.csproj", "{46DE7CF4-A2BC-4CA7-A3A7-A373364877A5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A9EC3808-6F57-44FD-9FC5-E8D52AEC45A3}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopmentWithADot.EntityFrameworkFluentValidation.Test", "DevelopmentWithADot.EntityFrameworkFluen.Test\DevelopmentWithADot.EntityFrameworkFluentValidation.Test.csproj", "{FA98823E-2E39-432D-B327-85B3304A53AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,6 +22,10 @@ Global
 		{46DE7CF4-A2BC-4CA7-A3A7-A373364877A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46DE7CF4-A2BC-4CA7-A3A7-A373364877A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46DE7CF4-A2BC-4CA7-A3A7-A373364877A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA98823E-2E39-432D-B327-85B3304A53AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA98823E-2E39-432D-B327-85B3304A53AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA98823E-2E39-432D-B327-85B3304A53AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA98823E-2E39-432D-B327-85B3304A53AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
